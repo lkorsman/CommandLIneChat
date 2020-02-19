@@ -93,7 +93,7 @@ class color:
       '\033[94m', # Blue
       '\033[92m', # Green
       '\033[93m', # Yellow
-      '\033[91m'] # Read
+      '\033[91m'] # Red
    BOLD = '\033[1m'
    END = '\033[0m'
 
